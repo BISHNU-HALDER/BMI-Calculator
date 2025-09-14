@@ -47,7 +47,7 @@ You can also check it directly via the **[Live Demo](#-live-demo)** link below.
 
 ## 🌐 Live Demo
 
-🔗 [View Demo](https://sb-0025.github.io/bmi-calculator/)
+🔗 [View Demo]()
 
 ---
 
